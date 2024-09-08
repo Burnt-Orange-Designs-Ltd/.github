@@ -8,4 +8,4 @@ We build bespoke software, specialising in:
 - Cloud migrations
 - Systems Integration
 
-See <a href="https://bod.software">https://bod.software</a> for full details.
+See <a href="https://bod.software" target="_blank_">https://bod.software</a> for full details.
